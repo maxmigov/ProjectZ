@@ -1,0 +1,7 @@
+obiavit interace riba kotorii soderjit getter i setter
+tip ribi type
+ves		weight
+sreda		environment
+sozdat klass seeFish, implements interface, s dopolnitelnim konstruktorom i tostring
+dobavit k klassu metod clone
+k kakoi kategorii prenadlejit cloneable?
